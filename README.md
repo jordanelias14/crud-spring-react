@@ -1,6 +1,6 @@
 # crud-spring-react
 
-Projeto Create Read Update Delete (CRUD) com react no frontend e java usando springboot no backend.
+Projeto Create Read Update Delete (CRUD) com react javascript no frontend e java usando springboot no backend.
 Arquivos de backend gerados no workbench Spring Tool Suite 4.
 Para o armazenamento dos dados inseridos foi utilizado o banco de dados MySQL juntamente com o servidor Wamp
 
